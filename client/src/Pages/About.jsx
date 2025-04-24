@@ -70,7 +70,7 @@ const About = () => {
             <FaGithub /> Github
           </a>
           <a
-            href="httutsabadhikari075@gmail.com/your-profile"
+            href="https://github.com/utsab-ad"
             target="_blank"
             className="flex md:justify-between justify-center md:gap-2 gap-1 items-center bg-blue-600 text-white border hover:border hover:bg-white hover:text-blue-800 px-4 py-2 rounded-md transition"
           >
